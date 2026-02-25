@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**niviya-albert/niviya-albert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Niviya Albert, a Data Science & AI student from India.
 
-Here are some ideas to get you started:
+I'm currently learning Python and slowly getting into the world of open source.
+I enjoy building small projects,understanding how things work, and improving step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python
+- Git & GitHub
+- Writing cleaner and better code
+- Reading and understanding open-source code
+- Basics of simulations and modelling
+
+## 🛠 Projects I've Built
+- Tip Calculator (Python)
+- Rock Paper Scissors Game (Python)
+
+## 🎯 What I'm Working Toward
+- Becoming more confident with Python
+- Contributing to open-source projects
+- Preparing for Google Summer of Code
+
+Thanks for stopping by 🙂
