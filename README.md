@@ -19,6 +19,5 @@ I enjoy building small projects,understanding how things work, and improving ste
 ## 🎯 What I'm Working Toward
 - Becoming more confident with Python
 - Contributing to open-source projects
-- Preparing for Google Summer of Code
 
 Thanks for stopping by 🙂
