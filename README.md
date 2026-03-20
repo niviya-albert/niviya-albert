@@ -1,23 +1,39 @@
 ## Hi there 👋
 
-I'm Niviya Albert, a Data Science & AI student from India.
+I'm Niviya Albert, a BE Data Science & AI student from India.  
 
-I'm currently learning Python and slowly getting into the world of open source.
-I enjoy building small projects,understanding how things work, and improving step by step.
+I enjoy building small Python projects, analyzing data, and understanding how things work. I’m gradually exploring the world of open-source and improving my coding skills step by step.
+
+---
 
 ## 🌱 Currently Learning
-- Python
-- Git & GitHub
-- Writing cleaner and better code
-- Reading and understanding open-source code
-- Basics of simulations and modelling
+- Python & Data Analysis (Pandas, Matplotlib)  
+- Git & GitHub workflow  
+- Writing clean, maintainable code  
+- Reading and understanding open-source projects  
+- Basics of simulations, modeling, and project development  
+
+---
 
 ## 🛠 Projects I've Built
-- Tip Calculator (Python)
-- Rock Paper Scissors Game (Python)
+- Tip Calculator – Python program to calculate and split tips  
+- Rock Paper Scissors Game – Python game with conditional logic and random module  
+- Treasure Island – Mini-game in Python with obstacles, demonstrates loops, conditionals and interactive gameplay   
+- Band Name Generator – Python program generating creative band names  
+- Academic Performance Intelligence System – Rule-based analysis of student data with graphs  
 
-## 🎯 What I'm Working Toward
-- Becoming more confident with Python
-- Contributing to open-source projects
+---
 
-Thanks for stopping by 🙂
+## 🎯 Goals
+- Gain confidence in Python and data analysis  
+- Contribute to open-source projects  
+- Build more practical projects that solve real problems  
+
+---
+
+## 📫 Connect With Me
+- Email: niviyalbert1365@gmail.com 
+
+---
+
+Thanks for stopping by! 🙂
